@@ -1,0 +1,1 @@
+Implementation of the adaptive Huffman compression algorithm with addition of multiple characters per node.
